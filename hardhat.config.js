@@ -5,9 +5,9 @@ require("@nomicfoundation/hardhat-toolbox");
 module.exports = {
   solidity: "0.8.17",
   networks: {
-  	moonbase: {
-  		url: 'https://rpc.api.moonbase.moonbeam.network',
-  		chainId: 1287, // 0x507 in hex,
+  	polygon_amoy: {
+  		url: 'https://rpc-amoy.polygon.technology/',
+  		chainId: 80002,
   		accounts: ['']
   	}
   }
