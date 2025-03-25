@@ -28,12 +28,12 @@ async function main() {
       location: "Miami-Dade Arena - Miami, FL"
     },
     {
-      name: "Pete Myers Band",
+      name: "Honest Drip- by Pete Myers",
       cost: tokens(1),
       tickets: 125,
       date: "Jun 2",
-      time: "1:00PM JST",
-      location: "Tokyo, Japan"
+      time: "1:00PM EST",
+      location: "Album Airdrop"
     },
     {
       name: "Pete Myers",
@@ -44,7 +44,7 @@ async function main() {
       location: "Turkey, Istanbul"
     },
     {
-      name: "Pete Myers and Company",
+      name: "Pete Myers",
       cost: tokens(5),
       tickets: 0,
       date: "Jun 11",
@@ -52,9 +52,9 @@ async function main() {
       location: "American Airlines Center - Dallas, TX"
     },
     {
-      name: "Pete Myers Experience",
+      name: "Pete Myers",
       cost: tokens(1.5),
-      tickets: 125,
+      tickets: 123,
       date: "Jun 23",
       time: "11:00AM EST",
       location: "Toronto, Canada"
