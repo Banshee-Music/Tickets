@@ -3,7 +3,7 @@ pragma solidity ^0.8.9;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 
-// Currently deployed on testnet
+// Currently deployed on Moonbase Alpha testnet
 contract TicketMarketplace is ERC721 {
     address public owner;
     uint256 public totalOccasions;
